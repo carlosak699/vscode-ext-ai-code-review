@@ -1,8 +1,14 @@
 {
   "name": "claude-ai-code-review",
   "displayName": "claude-ai-code-review",
-  "description": "A Code review using Claud AI",
+  "description": "A Code review using Claude AI from Anthropic AI",
   "version": "0.0.1",
+  "publisher": "ConceptaTech",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tnramalho/vscode-ext-ai-code-review"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
