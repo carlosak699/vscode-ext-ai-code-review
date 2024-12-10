@@ -1,4 +1,4 @@
-//@ts-check
+https://github.com/carlosak699/elektro-pohotovost-1.git//@ts-check
 
 'use strict';
 
